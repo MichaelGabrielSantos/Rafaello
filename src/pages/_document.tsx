@@ -45,9 +45,14 @@ export default class MyDocument extends Document {
           <meta charSet="utf-8" />
 
           <link
-            href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap"
             rel="stylesheet"
           />
+
+          <link
+            rel="icon"
+            href="https://www.flaticon.com/svg/static/icons/svg/1404/1404894.svg"
+          ></link>
         </Head>
         <body>
           <Main />

@@ -1,12 +1,12 @@
 const theme = {
   colors: {
-    background: '#121214',
-    text: '#e1e1e6',
+    background: '#fff',
+    text: '#000',
     primary: '#35D86B'
   },
   fonts: {
-    heading: "'Nunito', sans-serif",
-    paragraph: "'Nunito', sans-serif"
+    heading: "'Tinos', sans-serif",
+    paragraph: "'Tinos', sans-serif"
   }
 }
 

@@ -9,25 +9,10 @@ const Home: React.FC = () => {
   return (
     <Container>
       <Head>
-        <title>Kedros Next</title>
+        <title>Rafaello Pizzaria</title>
       </Head>
 
-      <a href="https://monts.com.br" target="_blank" rel="noopener noreferrer">
-        <MontsLogo />
-      </a>
-
-      <h1>Welcome to Kedros Next</h1>
-
-      <p>
-        A ReactJS & Next.js structure made by{' '}
-        <a
-          href="https://monts.com.br"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Monts
-        </a>
-      </p>
+      <main>a</main>
     </Container>
   )
 }
